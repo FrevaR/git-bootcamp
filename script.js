@@ -2,6 +2,7 @@
 // some tips:	Make the game within a border
 // 		Add background image
 //		Add sound effects
+//		Make animation on click like explosion
 //
 function getRandomColor() {
 			
