@@ -1,3 +1,5 @@
+/* Keep improving the file! */
+
 function getRandomColor() {
 			
 			var letters = '0123456789ABCDEF'.split('');
