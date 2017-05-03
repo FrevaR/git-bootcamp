@@ -1,6 +1,7 @@
 /* Keep improving the file! */
 // some tips:	Make the game within a border
 // 		Add background image
+//		Add sound effects
 //
 function getRandomColor() {
 			
